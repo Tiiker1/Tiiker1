@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tiiker1
 - 👀 I’m interested in coding, computers, gaming and motorcycles.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning to code better.
 - 💞️ I’m not looking any collabs right now.
-- 📫 How to reach me? with email: no current business email
+- 📫 How to reach me? with email: no current business email atm
 
 <!---
 Tiiker1/Tiiker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
