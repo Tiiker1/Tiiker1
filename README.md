@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tiiker1
 - 👀 I’m interested in coding, computers, gaming and motorcycles.
 - 🌱 I’m currently learning to code better.
-- 💞️ Looking for front-end dev (not paid since i wont get anymoney either).
+- 💞️ Looking for front-end dev (not paid since i wont get any money either).
 - 📫 How to reach me? with email: tkr1.cloud@gmail.com
 
 <!---
