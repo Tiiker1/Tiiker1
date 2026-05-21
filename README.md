@@ -22,7 +22,6 @@ I'm a passionate software developer focused on building clean, scalable, and mai
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frontend**
 
@@ -48,22 +47,11 @@ I'm a passionate software developer focused on building clean, scalable, and mai
 ### GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiiker1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ---
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/-Blog-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" alt="Blog" /></a>
+</a>
 </div>
