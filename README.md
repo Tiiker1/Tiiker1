@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+%5BYour+Name%5D;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+%5BTiiker1%5D;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -8,10 +8,10 @@
 
 I'm a passionate software developer focused on building clean, scalable, and maintainable applications. I enjoy working across the full stack and contributing to open-source projects.
 
-- I'm currently working on **[Your Project]**
-- I'm currently learning **Go** and **System Design**
-- Ask me about **React, Node.js, TypeScript, Python**
-- How to reach me: **email@example.com**
+- I'm currently working on **Minecraft plugins and DiscordBots**
+- I'm currently learning **JavaScript** and **Java**
+- Ask me about **My Projects**
+- How to reach me: **coming soon**
 
 ---
 
