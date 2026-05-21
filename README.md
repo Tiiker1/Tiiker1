@@ -32,25 +32,3 @@ I'm a software developer who enjoys building Minecraft plugins and Discord bots.
 
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu_E22042?style=flat-square&logo=ubuntu&logoColor=white)
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiiker1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiiker1&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
----
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tiiker1&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
