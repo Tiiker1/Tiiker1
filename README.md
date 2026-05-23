@@ -37,13 +37,4 @@
 
 ---
 
----
-
-## 🚀 Goals for 2026
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
-
----
-
 ⭐️ *Thanks for visiting my profile!*
