@@ -28,13 +28,6 @@
 **Tools & Platforms:**
 - [Git, Docker, Linux]
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiiker1&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiiker1&layout=compact)
-
 ---
 
 ⭐️ *Thanks for visiting my profile!*
